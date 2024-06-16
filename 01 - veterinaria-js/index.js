@@ -6,5 +6,5 @@ if (operacion === 'registrar') {
 } else if (operacion === 'leer') {
     leer();
 } else {
-    console.log('Operación no Encontrada. Recuerda usar "registrar" o "leer".');
+    console.log('Operación no Encontrada. Recuerda usar "registrar" o "leer"');
 }
